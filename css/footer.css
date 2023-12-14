@@ -1,0 +1,22 @@
+.footer{
+    background-color: rgb(105, 100, 100);
+    color: aliceblue;
+    height: 60px;
+ padding-top: 35px;
+ padding-left: 8px;
+ 
+}
+.powered{
+    background-color: rgb(65, 62, 62);
+    color: aliceblue;
+    height: 40px;
+    padding-top: 18px;
+    padding-left: 8px;
+
+}
+footer>p{
+    margin: 0;
+}
+footer>p>a{
+    color: aliceblue;
+}
