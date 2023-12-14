@@ -1,0 +1,33 @@
+section>article{
+display: flex;
+gap: 32px;
+margin-bottom: 32px;
+}
+
+section>article>div.heading{
+flex: 7;
+}
+
+section>article>div>h3{
+    color: rgb(3, 126, 126);
+}
+section>article>div>p{
+font-size: 12px;
+}
+
+section>article>div.ad{
+flex: 3;
+}
+
+.ad1{
+    height: 70px;
+    border: 1px solid rgb(90, 88, 88);
+    text-align: center;
+    margin-bottom: 16px;
+    margin-top: 8px;
+}
+.ad2{
+    height: 100px;
+    border: 1px solid rgb(90, 88, 88);
+    text-align: center;
+}

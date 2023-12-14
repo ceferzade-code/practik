@@ -1,7 +1,8 @@
 nav>a{
     text-decoration: none;
     color: black;
-
+/* height: 32px; */
+padding: 8px 12px;
 
 }
 nav>a:hover{
@@ -11,4 +12,9 @@ nav>a:hover{
 nav.menunav{
     display: flex;
     flex-direction: column;
+    
+}
+
+nav>h3{
+    padding-left: 12px;
 }

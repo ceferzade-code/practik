@@ -1,9 +1,10 @@
 header>nav>a{
     text-decoration: none;
    color: aliceblue;
-   padding: 8px;
+   padding: 8px 16px;
    margin: 0px;
    display: inline-block;
+   font-size: 14px;
 }
 header>nav>a:hover{
     background-color: aliceblue;
@@ -11,7 +12,7 @@ header>nav>a:hover{
 }
 header>nav{
     background-color: black;
-    height: 32px;
+    
     display: flex;
 }
 header{
