@@ -1,0 +1,14 @@
+nav>a{
+    text-decoration: none;
+    color: black;
+
+
+}
+nav>a:hover{
+    background-color: black;
+    color: aliceblue;
+}
+nav.menunav{
+    display: flex;
+    flex-direction: column;
+}
